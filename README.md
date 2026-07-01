@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0733-flood-fill) |
 ## Depth-First Search
