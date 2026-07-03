@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/1068-product-sales-analysis-i) |
