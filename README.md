@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
