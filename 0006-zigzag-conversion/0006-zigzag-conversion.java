@@ -1,6 +1,6 @@
 class Solution {
     public String convert(String s, int numRows) {
-        if(numRows==1) return s;
+        if(numRows==1 || numRows>s.length()) return s;
         StringBuilder[] rows = new StringBuilder[numRows]; //collection/array of all the rows
         for(int i=0;i<numRows;i++){
             rows[i] = new StringBuilder(); //creating stringBuilder for each row
