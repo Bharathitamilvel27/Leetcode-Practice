@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0027-remove-element) |
@@ -96,9 +97,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
