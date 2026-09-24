@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -136,4 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
