@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0733-flood-fill](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0733-flood-fill) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -85,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -124,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
