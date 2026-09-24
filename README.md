@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0733-flood-fill](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
