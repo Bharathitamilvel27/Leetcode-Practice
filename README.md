@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0169-majority-element) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Bharathitamilvel27/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
